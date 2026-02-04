@@ -127,3 +127,4 @@ print(str.lower())
 
 str1 = input("Enter your word")
 
+
